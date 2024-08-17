@@ -1,0 +1,14 @@
+.btn-inverted,
+.btn-fancy {
+  font-size: 28px;
+  font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+.btn-inverted {
+  background-color: black;
+  color: white;
+}
+
+.btn-fancy {
+  background-color: yellow;
+}
